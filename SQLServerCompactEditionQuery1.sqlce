@@ -1,0 +1,5 @@
+
+--Insert into FoodOrderTable (FoodOrderID,FoodDescription,MoneyAmount,DateOrdered,PaidStatus,OrderedBy,OrderType)
+--Values(3,'Japanese siomai w/ rice', 35, '2016-03-15', 1, 'CZTan',2)
+
+select * from FoodOrderTable
